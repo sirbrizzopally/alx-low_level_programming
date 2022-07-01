@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/*Programm to print output using puts function and escape character
- * so that quotes appear in ooutput
+/**
+ * main - Entry point
+ *
+ * Description: 'Programm to print output using puts function'
+ *
+ * Return: 0 meaning success
  */
 int main(void)
 {
